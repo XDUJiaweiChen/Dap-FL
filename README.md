@@ -1,7 +1,12 @@
-# Dap-FL
-Dap-FL: Federated Learning flourishes by adaptive tuning and secure aggregation
+# Dap-FL: Federated Learning flourishes by adaptive tuning and secure aggregation
 
 Implemented based on Tensorflow
+
+***
+- The copyright of the code in this project belongs to the authors of the Dap-FL paper and can only be used for academic research. If you need to quote or reprint, please indicate the source and the original link.
+
+- The final interpretation right of this copyright and disclaimer belongs to the authors.
+***
 
 ## Reference
 - primal-dual ddpg from [Accelerated Primal-Dual Policy Optimization for Safe Reinforcement Learning](https://arxiv.org/abs/1802.06480)
