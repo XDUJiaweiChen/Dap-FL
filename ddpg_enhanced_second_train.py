@@ -215,9 +215,6 @@ for t in range(start_iteration, start_iteration+iteration_num):
     global_acc.append(acc)
     global_fs.append(fs)
     print(f"The performence of global model is, loss: {loss}; acc: {acc}; fs: {fs}\n")
-    
-    K.clear_session()
-    tf.compat.v1.reset_default_graph()
 
 # save training statues for each clients
 for i in range(user_num):
